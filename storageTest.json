@@ -1,1 +1,9 @@
-{}
+{
+			"test": [
+				{
+					"title": "test title",
+					"type": "blog post"
+				}
+			],
+			"url": "https://test/test",
+		},
