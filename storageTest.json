@@ -1,7 +1,5 @@
-
-
 {
-	"firstName": "Martin",
-	"lastName": "Sherwood",
+	"firstName": "John",
+	"lastName": "Smith",
 	"desc": "Hello world, this is mavo."
 }
